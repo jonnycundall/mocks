@@ -1,0 +1,22 @@
+{
+  "name": "mocks",
+  "version": "1.0.0",
+  "description": "mocks sandbox for experimentation",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jonnycundall/mocks.git"
+  },
+  "keywords": [
+    "mocks"
+  ],
+  "author": "Jonny Cundall",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jonnycundall/mocks/issues"
+  },
+  "homepage": "https://github.com/jonnycundall/mocks#readme"
+}
